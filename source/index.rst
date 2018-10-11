@@ -10,4 +10,4 @@ Welcome to ChazLiu's Blog's documentation!
    :maxdepth: 2
    :caption: Contents:
 
-   first
+   First_paper
